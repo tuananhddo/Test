@@ -62,4 +62,6 @@ selenium.click("class=ng-option")
 
 
  selenium.click("xpath=(.//*[normalize-space(text()) and normalize-space(.)='Ngày giờ kết thúc'])[1]/following::input[4]")
+ WebUI.delay(2)
+ WebUI.verifyTextPresent("Giao bài tập thành công", false)
  
