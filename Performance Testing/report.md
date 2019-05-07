@@ -13,7 +13,7 @@ Trong một môi trường thử nghiệm, LoadUI cung cấp bản thử nghiệ
 ```
 https://smartbear.com/product/ready-api/loadui/free-trial/
 ```
-![](register.png)
+![](register.PNG)
 ### Trình duyện sẽ tự động tải về sau khi bạn đăng ký
 ### Bước 2. Chạy file vừa tải về và cài đặt
 ## 3. Hướng dẫn sử dụng
@@ -45,9 +45,9 @@ Có 3 lựa chọn có thể chọn:
 ## Bước 6. Lấy báo cáo kết quả
 
 Chọn Report để tạo Report kết quả
-![](report.png)
+![](report.PNG)
 Báo cáo Kiểm Thử
-![](report2.png)
+![](report2.PNG)
 ## 4. Kết quả kiểm thử trên hoclieu.sachmem.vn
 Có 1 vài trường hợp vượt quá thời gian phản hồi mong đợi
-![](chart.PNG)
+![](Chart.PNG)
