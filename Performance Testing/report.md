@@ -50,4 +50,4 @@ Báo cáo Kiểm Thử
 ![](report2.png)
 ## 4. Kết quả kiểm thử trên hoclieu.sachmem.vn
 Có 1 vài trường hợp vượt quá thời gian phản hồi mong đợi
-![](chart.png)
+![](chart.PNG)
